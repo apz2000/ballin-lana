@@ -12,4 +12,4 @@ mpirun -np 4 mulMat
 Y para correrlo en varias computadoras ocupar: mpirun -np 4 -f hosts mulMat.
 el archivo hosts debe de tener las IPs de las diferentes computadoras conectadas.
 
-Consultar https://wiki.mpich.org/mpich/index.php/Using_the_Hydra_Process_Manager para moyr información.
+Consultar https://wiki.mpich.org/mpich/index.php/Using_the_Hydra_Process_Manager para mayor información.
